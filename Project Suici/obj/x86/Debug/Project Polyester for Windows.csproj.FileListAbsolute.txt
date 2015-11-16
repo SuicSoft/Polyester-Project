@@ -28,3 +28,33 @@ C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici
 C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\Dragablz.xml
 C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\MahApps.Metro.xml
 C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\App.baml
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\Project Suici.exe.config
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\Project Suici.exe
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\Project Suici.pdb
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\Project Suici.exe
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\Project Suici.pdb
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\CefSharp.Core.dll
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\CefSharp.dll
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\CefSharp.Wpf.dll
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\Dragablz.dll
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\MahApps.Metro.dll
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\MaterialDesignColors.dll
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\MaterialDesignThemes.MahApps.dll
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\MaterialDesignThemes.Wpf.dll
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\System.Windows.Interactivity.dll
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\CefSharp.Wpf.xml
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\CefSharp.xml
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\CefSharp.Core.xml
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\Dragablz.pdb
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\Dragablz.xml
+E:\GitHub\Polyester-Project\Project Suici\bin\x86\Debug\MahApps.Metro.xml
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\Project Polyester for Windows.csprojResolveAssemblyReference.cache
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\MainWindow.g.cs
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\App.g.cs
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\Project Suici_MarkupCompile.cache
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\Project Suici_MarkupCompile.lref
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\App.baml
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\MainWindow.baml
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\Project Suici.g.resources
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\Project_Suici.Properties.Resources.resources
+E:\GitHub\Polyester-Project\Project Suici\obj\x86\Debug\Project Polyester for Windows.csproj.GenerateResource.Cache
