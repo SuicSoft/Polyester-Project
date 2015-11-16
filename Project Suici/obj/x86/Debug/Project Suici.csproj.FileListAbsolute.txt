@@ -1,0 +1,20 @@
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\Project Suici.exe.config
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\Project Suici.exe
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\Project Suici.pdb
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\CefSharp.dll
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\CefSharp.Wpf.dll
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\CefSharp.Wpf.xml
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\CefSharp.xml
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\Project Suici.csprojResolveAssemblyReference.cache
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\MainWindow.g.cs
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\App.g.cs
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\Project Suici_MarkupCompile.cache
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\Project Suici_MarkupCompile.lref
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\MainWindow.baml
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\Project Suici.g.resources
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\Project_Suici.Properties.Resources.resources
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\Project Suici.csproj.GenerateResource.Cache
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\Project Suici.exe
+C:\Users\suici\documents\visual studio 2015\Projects\Project Suici\Project Suici\obj\x86\Debug\Project Suici.pdb
