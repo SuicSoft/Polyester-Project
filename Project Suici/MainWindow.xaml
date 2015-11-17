@@ -13,9 +13,16 @@
         GlowBrush="{DynamicResource AccentColorBrush}"					  
         FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="617.683">
+        Title="Polyester" Height="350" Width="617.683">
     <Grid>
-       
-        <Grid/>
+
+        <dragablz:TabablzControl ShowDefaultCloseButton="True" ShowDefaultAddButton="True" AdjacentHeaderItemOffset="-10">
+            <TabItem Header="Two">
+                <cefSharp:ChromiumWebBrowser Grid.Row="0"
+        Address="https://github.com/cefsharp/CefSharp/wiki/Frequently-asked-questions" />
+            </TabItem>
+            <TabItem Header="Three"></TabItem>
+        </dragablz:TabablzControl>
+
     </Grid>
 </Controls:MetroWindow>
