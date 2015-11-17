@@ -1,7 +1,7 @@
 # Polyester Project - a new web browser, from your friends at SuicSoft
 
 <!-- App Veyor -->
-[![Build status](https://ci.appveyor.com/api/projects/status/79qcnkt3rxxboays?svg=true)](https://ci.appveyor.com/project/SuicSoft/polyester-project)
+[![Build status](https://ci.appveyor.com/api/projects/status/4bw86mjgwebvhn74/branch/master?svg=true)](https://ci.appveyor.com/project/SuicSoft/polyester-project/branch/master)
  
  The Polyester Project is the latest creation from SuicSoft. Currently, in ALPHA (it doesn't work), the new web browser uses
 the Chrome Embeded Framework (CEF) for the reliablity of Google's browser  - but we've got some great <b>NEW Features</b>:
